@@ -64,5 +64,8 @@ python recommendation.py
 * Add a GUI using Tkinter or Streamlit
 * Connect with a real user database
 
+## CodeBase Tutorial
+https://code2tutorial.com/tutorial/c50a1636-7a50-4e10-a03a-aaf670651c81/index.md
+
 
 
